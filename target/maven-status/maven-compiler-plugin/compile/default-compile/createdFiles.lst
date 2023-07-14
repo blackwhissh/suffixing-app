@@ -1,0 +1,9 @@
+configuration\Mode.class
+Main.class
+configuration\AppConfigLoad.class
+configuration\AppConfig.class
+copymove\FileFactory.class
+copymove\MoveFile.class
+configuration\AppConfigLoad$1.class
+copymove\CopyFile.class
+copymove\FileRenamer.class
